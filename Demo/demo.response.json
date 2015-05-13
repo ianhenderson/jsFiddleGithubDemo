@@ -1,17 +1,17 @@
-[
-	{
-        name: 'Ian',
-        hometown: 'Lake Elsinore',
-        favoriteFood: 'Ice Cream'
-	},
-	{
-        name: 'Makiko',
-        hometown: 'Tokyo',
-        favoriteFood: 'Pudding'
-	},
-	{
-        name: 'Jack',
-        hometown: 'New York',
-        favoriteFood: 'Pizza'
-	}
-]
+"[
+  {
+    "name": "Ian",
+    "hometown": "Lake Elsinore",
+    "favoriteFood": "Ice Cream"
+  },
+  {
+    "name": "Makiko",
+    "hometown": "Tokyo",
+    "favoriteFood": "Pudding"
+  },
+  {
+    "name": "Jack",
+    "hometown": "New York",
+    "favoriteFood": "Pizza"
+  }
+]"
